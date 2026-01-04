@@ -7,4 +7,5 @@ LEVEL 6 CHEST CODE: FOX-7
 LEVEL 7 COMPLETE: I compared commits from level 1 to 6 for changes
 LEVEL 8 PR LINK: https://github.com/janjan090/cpe411l-git-quest/pull/73
 LEVEL 9 COMPLETE: I changed branch between main and my branch using checkout
+LEVEL 10 COMPLETE: I submitted my proof
 
