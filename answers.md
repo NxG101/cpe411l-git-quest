@@ -5,3 +5,5 @@ LEVEL 4 COMPLETE: fixed the hallway sign
 LEVEL 5 COMPLETE: I checked that I'm working with my own branch
 LEVEL 6 CHEST CODE: FOX-7
 LEVEL 7 COMPLETE: I compared commits from level 1 to 6 for changes
+LEVEL 8 PR LINK: https://github.com/janjan090/cpe411l-git-quest/pull/73
+
