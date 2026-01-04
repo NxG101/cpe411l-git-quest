@@ -4,3 +4,4 @@ LEVEL 3 COMPLETE: I checked the git log [history] and found clue: SUNSET-19
 LEVEL 4 COMPLETE: fixed the hallway sign
 LEVEL 5 COMPLETE: I checked that I'm working with my own branch
 LEVEL 6 CHEST CODE: FOX-7
+LEVEL 7 COMPLETE: I compared commits from level 1 to 6 for changes
